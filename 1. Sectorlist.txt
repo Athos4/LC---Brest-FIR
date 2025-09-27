@@ -48,3 +48,11 @@ JD 120.350 SFC-115
 IQ 125.860 SFC-195
 //////// Lorient ////////
 RH 122.100
+
+//Sector max rate
+QXU 48
+MZ 110
+MZI 40
+VS 46
+VKWIU 50
+N 95
